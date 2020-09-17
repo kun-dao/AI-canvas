@@ -1,2 +1,2 @@
 # AI-canvas
-A magic canvas which recognizes the number you paint 
+A magic canvas which can recognize the number you paint 
